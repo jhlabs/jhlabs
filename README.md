@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Johannes</h1>
-<h3 align="center">A Full Stack software engineer living in Stockholm</h3>
+<h3 align="center">A Full Stack software engineer living in Sweden</h3>
 
 <p align="left"> <a href="https://twitter.com/johannesherr" target="blank"><img src="https://img.shields.io/twitter/follow/johannesherr?logo=twitter&style=for-the-badge" alt="johannesherr" /></a> </p>
 
 - 🔭 I am a co-founder and CTO at [Arro](https://arro.co)
-
-- 📝 I regulary write articles on [https://johannes.co](https://johannes.co)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
