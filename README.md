@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/johannesherr" target="blank"><img src="https://img.shields.io/twitter/follow/johannesherr?logo=twitter&style=for-the-badge" alt="johannesherr" /></a> </p>
 
-- 🔭 I am a co-founder and CTO at [Arro](https://arro.co)
+- 🔭 I am a staff engineer at [Readwise](https://readwise.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
